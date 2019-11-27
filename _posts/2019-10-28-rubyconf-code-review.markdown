@@ -1,8 +1,12 @@
 ---
-layout: post
 title: 'RubyconfBR: Decodificando o Code Review'
-date: '2019-10-27 12:00:00 -0300'
-categories: ruby slides
+last_modified_at: 2019-10-28T12:00:00-03:00
+categories:
+  - Blog
+tags:
+  - Ruby
+  - Code Review
+  - Talks
 ---
 
 Slides disponíveis em:

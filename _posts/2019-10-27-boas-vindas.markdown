@@ -1,8 +1,10 @@
 ---
-layout: post
 title: 'Boas vindas'
-date: '2019-10-27 12:00:00 -0300'
-<!-- categories: welcome -->
+last_modified_at: 2019-10-27T12:00:00-03:00
+categories:
+  - Blog
+tags:
+  - Welcome
 ---
 
 Olá, eu sou a Elaine Naomi, desenvolvedora de software desde 2018.
