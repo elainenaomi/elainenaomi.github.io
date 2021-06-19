@@ -1,0 +1,17 @@
+  [[main]]
+  name = "Página Principal"
+  identifier = "main"
+  weight = 100
+  url = "/br"
+
+  [[main]]
+  name = "Artigos"
+  weight = 200
+  identifier = "posts"
+  url = "/br/post"
+
+  [[main]]
+  name = "Sobre"
+  weight = 300
+  identifier = "about"
+  url = "/br/about"

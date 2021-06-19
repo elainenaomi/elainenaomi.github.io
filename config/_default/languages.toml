@@ -1,0 +1,11 @@
+[en]
+title = "Elaine Watanabe"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[br]
+title = "Elaine Watanabe"
+contentDir = "content/portuguese"
+weight = 1
+LanguageName = "BR"
