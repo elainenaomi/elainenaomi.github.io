@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://elainenaomi.dev/br/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
@@ -15,9 +14,10 @@
                 hreflang="br"
                 href="https://elainenaomi.dev/br/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://elainenaomi.dev/br/tags/elixir-lab/</loc>
+    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://elainenaomi.dev/br/post/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -30,14 +30,29 @@
                 hreflang="br"
                 href="https://elainenaomi.dev/br/post/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://elainenaomi.dev/br/tags/programando-phoenix/</loc>
+    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://elainenaomi.dev/br/post/programando-phoenix/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://elainenaomi.dev/br/tags/programming-phoenix/</loc>
+    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://elainenaomi.dev/br/tags/</loc>
+    <lastmod>2021-06-22T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://elainenaomi.dev/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="br"
+                href="https://elainenaomi.dev/br/tags/"
+                />
+  </url><url>
     <loc>https://elainenaomi.dev/br/archives/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -50,14 +65,10 @@
                 hreflang="br"
                 href="https://elainenaomi.dev/br/archives/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://elainenaomi.dev/br/post/ola_mundo/</loc>
+  </url><url>
+    <loc>https://elainenaomi.dev/br/post/ola-mundo/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://elainenaomi.dev/br/about/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -70,29 +81,10 @@
                 hreflang="br"
                 href="https://elainenaomi.dev/br/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://elainenaomi.dev/br/tags/ol%C3%A1/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elainenaomi.dev/br/tags/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://elainenaomi.dev/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="br"
-                href="https://elainenaomi.dev/br/tags/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://elainenaomi.dev/br/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -104,9 +96,7 @@
                 hreflang="br"
                 href="https://elainenaomi.dev/br/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://elainenaomi.dev/br/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
@@ -119,5 +109,4 @@
                 href="https://elainenaomi.dev/br/tags/index/"
                 />
   </url>
-  
 </urlset>

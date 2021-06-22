@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elainenaomi.dev/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome</title>
-      <link>https://elainenaomi.dev/post/hello_world/</link>
+      <link>https://elainenaomi.dev/post/hello-world/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://elainenaomi.dev/post/hello_world/</guid>
+      <guid>https://elainenaomi.dev/post/hello-world/</guid>
       
         <description>Hi, I&amp;rsquo;m Elaine Watanabe, welcome to my blog. This is my virtual space to share my personal notes about programming languages, web development, technical leadership, among other things.</description>
       
