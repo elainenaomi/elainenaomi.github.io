@@ -35,7 +35,7 @@ hugo new posts/my-first-post.md
 ## Deploy
 
 ```
-hugo -D
+hugo -d ./docs
 ```
 
 https://gohugo.io/hosting-and-deployment/hosting-on-github/
