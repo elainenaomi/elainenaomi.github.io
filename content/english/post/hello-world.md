@@ -6,7 +6,6 @@ description = "Welcome page for my blog"
 tags = [
     "hello"
 ]
-
 +++
 
 Hi, I'm Elaine Watanabe, welcome to my blog.

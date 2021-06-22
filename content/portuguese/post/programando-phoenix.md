@@ -3,6 +3,11 @@ author = "Elaine Watanabe"
 title = "Programando Phoenix"
 date = "2021-06-22"
 draft = false
+tags = [
+    "Elixir Lab",
+    "Programando Phoenix",
+    "Programming Phoenix"
+]
 +++
 
 Olá!
