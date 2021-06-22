@@ -44,6 +44,12 @@ title = "Linkedin"
 url = "https://linkedin.com/in/elainenaomi"
 
 [[socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/elaine_nw"
+
+
+[[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/elainenaomi"
