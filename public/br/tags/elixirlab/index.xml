@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ElixirLab on Elaine Watanabe</title>
+    <link>https://elainenaomi.dev/br/tags/elixirlab/</link>
+    <description>Recent content in ElixirLab on Elaine Watanabe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://elainenaomi.dev/br/tags/elixirlab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programando Phoenix</title>
+      <link>https://elainenaomi.dev/br/post/programando-phoenix/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://elainenaomi.dev/br/post/programando-phoenix/</guid>
+      
+        <description>Olá!
+Vamos começar a revisão do livro &amp;ldquo;Programming Phoenix 1.4&amp;rdquo; (Programando Phoenix), escrito por Chris McCord, Bruce Tate, Jose Valim e publicado pela editora The Pragmatic Programmers (mais conhecida como PragProg).</description>
+      
+    </item>
+    
+  </channel>
+</rss>
