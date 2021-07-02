@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://elainenaomi.dev/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
@@ -14,7 +15,9 @@
                 hreflang="en"
                 href="https://elainenaomi.dev/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://elainenaomi.dev/archives/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -27,7 +30,9 @@
                 hreflang="en"
                 href="https://elainenaomi.dev/archives/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://elainenaomi.dev/about/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -40,10 +45,14 @@
                 hreflang="en"
                 href="https://elainenaomi.dev/about/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://elainenaomi.dev/tags/hello/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://elainenaomi.dev/post/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -56,7 +65,9 @@
                 hreflang="en"
                 href="https://elainenaomi.dev/post/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://elainenaomi.dev/tags/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -69,10 +80,14 @@
                 hreflang="en"
                 href="https://elainenaomi.dev/tags/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://elainenaomi.dev/post/hello-world/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://elainenaomi.dev/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,7 +99,9 @@
                 hreflang="en"
                 href="https://elainenaomi.dev/categories/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://elainenaomi.dev/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
@@ -97,4 +114,5 @@
                 href="https://elainenaomi.dev/tags/index/"
                 />
   </url>
+  
 </urlset>
